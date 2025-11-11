@@ -1,0 +1,1977 @@
+﻿-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '7'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+#######################################################################
+        VP REGISTRY : 레지스트리 등록(N) 응답
+#######################################################################
+
+레지스트리 삭제(N)
+레지스트리 삭제 성공
+
+! MAC ADDRESS : 58-11-22-BC-90-6E !
+>> DaouVP VER. : 508 !! 
+
+>> DaouVP Model Code. : VA8W !! 
+>> #define	PROJ_NOMAL !!
+>> #define	PROJ_DENY_ILLEGAL_CANCEL !! 
+svkGetVersion::curr_path = [C:\SmtWork_git\s-oil\kiosk\device\DaouVP_2509\DaouVP.exe]
+svkGetVersion::infoSize = [1540]
+svkGetVersion::output_msg = [2.5.0.9]
+# Server Socket - Start 
+Create MSGINFO ! 
+
+# Main TransationProc Start 
+-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '7'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+
+#######################################################################
+        VP => READER : 무결성검사(K920) 요청
+#######################################################################
+m_hComm == -1 ErrorCode : 2 !!
+! COM7 Open Fail
+! COM7 Close - AlReady
+#######################################################################
+-----------------------------------------------------
+   Read Ini File - CIC NO-PINt
+-----------------------------------------------------
+m_strCashIcNoPin    [     0] = ''
+m_strCashIcNoPin_YN    [     1] = 'N'
+-----------------------------------------------------
+-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '7'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+
+#######################################################################
+        VP => READER : 무결성검사(K920) 요청
+#######################################################################
+m_hComm == -1 ErrorCode : 2 !!
+! COM7 Open Fail
+! COM7 Close - AlReady
+#######################################################################
+-----------------------------------------------------
+   Read Ini File - CIC NO-PINt
+-----------------------------------------------------
+m_strCashIcNoPin    [     0] = ''
+m_strCashIcNoPin_YN    [     1] = 'N'
+-----------------------------------------------------
+
+# Main PaymentProcess End 
+Un Hook ! 
+Read_PortInfo::ini_path = [C:\SmtWork_git\s-oil\kiosk\device\DaouVP_2509\SvkPosCfg.ini]
+Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[1],timeout[3000]
+> SVK => COM Time Check : 2025-09-19 11:21:31.829 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323133311C39393939393930301C1C1C1C1C1C1C0338394333
+Port =  1 , Com Reader Fail! -44 
+Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[8],timeout[3000]
+> SVK => COM Time Check : 2025-09-19 11:21:42.072 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323133311C39393939393930301C1C1C1C1C1C1C0338394333
+Port =  8 , Com Reader Fail! -44 
+Com_Signpad Open >> Try !! 
+Com_Signpad Open >> Success !! 
+Com_Signpad Open :port[1],timeout[5000]
+> SVK => COM Time Check : 2025-09-19 11:21:48.557 
+> SVK => COM[    18] = 0230303138303830301C1C1C1C0331354145
+Com_Signpad Open >> Try !! 
+Com_Signpad Open >> Success !! 
+Com_Signpad Open :port[8],timeout[5000]
+> SVK => COM Time Check : 2025-09-19 11:21:59.970 
+> SVK => COM[    18] = 0230303138303830301C1C1C1C0331354145
+
+# Main TransationProc Start 
+-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '0'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+
+#######################################################################
+        VP => READER : 무결성검사(K920) 요청
+#######################################################################
+m_hComm == -1 ErrorCode : 2 !!
+! COM0 Open Fail
+! COM0 Close - AlReady
+#######################################################################
+-----------------------------------------------------
+   Read Ini File - CIC NO-PINt
+-----------------------------------------------------
+m_strCashIcNoPin    [     0] = ''
+m_strCashIcNoPin_YN    [     1] = 'N'
+-----------------------------------------------------
+-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '0'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+
+#######################################################################
+        VP => READER : 무결성검사(K920) 요청
+#######################################################################
+m_hComm == -1 ErrorCode : 2 !!
+! COM0 Open Fail
+! COM0 Close - AlReady
+#######################################################################
+-----------------------------------------------------
+   Read Ini File - CIC NO-PINt
+-----------------------------------------------------
+m_strCashIcNoPin    [     0] = ''
+m_strCashIcNoPin_YN    [     1] = 'N'
+-----------------------------------------------------
+
+# Main PaymentProcess End 
+Read_PortInfo::ini_path = [C:\SmtWork_git\s-oil\kiosk\device\DaouVP_2509\SvkPosCfg.ini]
+Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[1],timeout[3000]
+> SVK => COM Time Check : 2025-09-19 11:23:10.441 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323331301C39393939393930301C1C1C1C1C1C1C0342453842
+Port =  1 , Com Reader Fail! -44 
+Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[7],timeout[3000]
+> SVK => COM Time Check : 2025-09-19 11:23:13.983 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323331301C39393939393930301C1C1C1C1C1C1C0342453842
+> SVK <= COM Time Check : 2025-09-19 11:23:14.116 
+> SVK <= COM[     5] = 0606060606
+> SVK <= COM Time Check : 2025-09-19 11:23:14.221 
+> SVK <= COM[     5] = 0230303639
+> SVK <= COM Time Check : 2025-09-19 11:23:14.337 
+> SVK <= COM[    64] = 4B3931301C303030301C1C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0342343041
+
+ Proc_Devices_Search_Msg_Auto : READER_PORT Find!! = 7
+ Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[11],timeout[3000]
+> SVK => COM Time Check : 2025-09-19 11:23:14.900 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323331301C39393939393930301C1C1C1C1C1C1C0342453842
+Port =  11 , Com Reader Fail! -44 
+Com_Signpad Open >> Try !! 
+Com_Signpad Open >> Success !! 
+Com_Signpad Open :port[1],timeout[5000]
+> SVK => COM Time Check : 2025-09-19 11:23:18.461 
+> SVK => COM[    18] = 0230303138303830301C1C1C1C0331354145
+Com_Signpad Open >> Try !! 
+Com_Signpad Open >> Success !! 
+Com_Signpad Open :port[7],timeout[5000]
+> SVK => COM Time Check : 2025-09-19 11:23:23.860 
+> SVK => COM[    18] = 0230303138303830301C1C1C1C0331354145
+Com_Signpad Open >> Try !! 
+Com_Signpad Open >> Success !! 
+Com_Signpad Open :port[11],timeout[5000]
+> SVK => COM Time Check : 2025-09-19 11:23:29.274 
+> SVK => COM[    18] = 0230303138303830301C1C1C1C0331354145
+
+# Main TransationProc Start 
+-----------------------------------------------------
+   Read Ini File
+-----------------------------------------------------
+m_strSystemMode      [     4] = 'REAL'
+m_strIcReaderPort    [     1] = '7'
+m_strRfReaderPort    [     1] = '0'
+m_strSignPadPort     [     1] = '0'
+m_strDualPort		[     1] = '0'
+m_strSignAutoFlag    [     1] = 'N'
+m_strSwIdNo          [    16] = '###DAOU-VPAY1000'
+m_strHwIdNo          [    16] = '##DKSRDE633RD110'
+m_strTID             [     8] = '11869291'
+m_strBizNo           [    10] = '2048629073'
+m_strServerPort      [     5] = '23738'
+m_strIsKiosk         [     1] = 'N'
+m_strExtSign         [     1] = 'N'
+m_strAutoRun         [     1] = 'N'
+m_strAutoRun_Delay   [     1] = '0'
+m_strHideWindow      [     1] = 'N'
+m_strSignTimeout     [     2] = '30'
+m_strLogFlag         [     1] = 'Y'
+m_strSocketTime      [     3] = '120'
+m_strReaderTime      [     2] = '25'
+m_strDaouVPInit      [     1] = 'N'
+m_strCardReadPopUP_OFF[     1] = 'N'
+m_strFallBackOff	[     1] = 'N'
+m_strLaunchAuto   	[     1] = 'Y'
+m_strUseSocketDLL    [     1] = 'N'
+m_strVirtualSignPad      [     1] = 'N'
+m_strNewDialogOff       [     1] = 'N'
+m_strDualDevice      [     1] = 'N'
+m_strDualReaderUse      [     1] = 'N'
+m_strIcContinue      [     1] = 'N'
+m_strCashIcContinue  [     1] = 'N'
+m_strIcSelect        [     1] = 'N'
+m_strIsKYTronics   [     1] = 'N'
+m_strMultiBizSingle     [     1] = 'N'
+m_strMultiBizFlag    [     1] = 'N'
+m_strDualDisplay      [     1] = 'N'
+m_strBalanceOff     [     1] = 'Y'
+m_strSocketNull     [     1] = 'N'
+m_strTransPopup      [     1] = 'N'
+m_strSKP_PW_PAD     [     1] = 'N'
+m_strPosID_in_INI      [     1] = 'N'
+m_str_KeyEvent_Off      [     1] = 'N'
+m_str_Cash_VPAD      [     1] = 'N'
+m_str_Kiosk_No_Use_Sign    [     1] = 'N'
+m_strVPAD_Width    [     1] = '0'
+m_strVPAD_Height   [     1] = '0'
+m_strCardType_Div   [     1] = 'N'
+m_strHTTPSupport    [     1] = 'N'
+m_strIncompData       [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+m_strUnionPayConvert[     1] = 'N'
+m_strVoice[     1] = 'N'
+m_strSubVAN_TID[     8] = '77777777'
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strMultiTID         [     0] = ''
+m_strMultiBizNo      [     0] = ''
+m_strReaderID        [    24] = '9vQKPLB/5FX1uyA6bF7T3w=='
+m_strCashIcNoPin     [     0] = ''
+m_strShopName        [    14] = '(주)스마트큐브'
+m_strShopAddr        [    35] = '서울 마포구 창전로 70 화수목빌딩3층'
+m_strShopTel         [     9] = '1661-5820'
+m_strShopCeo         [     6] = '유시연'
+m_strAgencyTel       [    11] = '02-418-1257'
+m_strAgencyName      [    13] = '에이엔티(ANT)'
+ID                   [     0] = ''
+m_strTaxType         [     7] = 'INCLUDE'
+m_strTaxRate       [     2] = '10'
+m_strTipType      [     5] = 'NOUSE'
+m_strTipRate         [     1] = '0'
+m_strCupRecycle       [     1] = 'N'
+m_strCatType       [     1] = '0'
+m_strSelfTran       [     1] = 'N'
+m_strPointType       [     1] = 'N'
+-----------------------------------------------------
+
+#######################################################################
+        VP => READER : 무결성검사(K920) 요청
+#######################################################################
+! COM7 Open OK
+
+# IcRd::Init Packet : 18
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 18
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K920'
+tDateTime            [    14] = '20250919112347'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 11:23:48.401 
+> IcRd Tx[    45] = 02303034354B3932301C32303235303931393131323334371C31313836393239311C1C1C1C1C1C1C0336383946
+> Set Reader TimeOut[918][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 918 ] 
+> Set Reader TimeOut[918][10000]
+> IcRd Rx[10000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303038334B3933301C303030301C32303235303931393131323334371C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0336314530First=060602303038334B3933301C303030301C32303235303931393131323334371C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0336314530
+Rf=00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 918 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 11:23:49.101 
+> PacketReader - 0083K930000020250919112347##DKSRDE633R    D110            DK1904050961E0 ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0083'
+rTeleNo               [     4] = 'K930'
+rResCode              [     4] = '0000'
+rDateTime             [    14] = '20250919112347'
+rDeviceInfo           [    42] = '##DKSRDE633R    D110            DK19040509'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+m_strNewDialogOff = N ! 
+Delet MSGINFO ! 
+Un Hook ! 
+! CASH VPAD CLOSE ! 
+! COM7 Close
+! IcRd::Result OK[0000]
+
+#######################################################################
+        VP => SVK : 단말기 개시거래(0200/90) 요청
+#######################################################################
+
+# SVK::Init Packet : 40
+# SVK::SndPacketCopySvkToTxBuf : 40
+-----------------------------------------------------
+   SVK::Snd Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0200'
+tJobCode             [     2] = '90'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+tBizNo               [    10] = '2048629073'
+tSwId                [    16] = '###DAOU-VPAY1000'
+tMultiUserTID        [     8] = '        '
+-----------------------------------------------------
+> VP => SVK[    58] = '0200901186929100000             2048629073###DAOU-VPAY1000'
+PD = !  ! 
+MAC ADDRESS = ! 58-11-22-BC-90-6E ! 
+ Com_Reader Open >> Try !! 
+Com_Reader Open >> Success !! 
+Com_Reader Open :port[7],timeout[15000]
+> SVK => COM Time Check : 2025-09-19 11:23:51.351 
+> SVK => COM[    45] = 02303034354B3930301C32303235303931393131323335311C31313836393239311C1C1C1C1C1C1C0339453046
+> SVK <= COM Time Check : 2025-09-19 11:23:51.406 
+> SVK <= COM[     5] = 0606060606
+> SVK <= COM Time Check : 2025-09-19 11:23:51.453 
+> SVK <= COM[     5] = 0230303639
+> SVK <= COM Time Check : 2025-09-19 11:23:51.500 
+> SVK <= COM[    64] = 4B3931301C303030301C1C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0342343041
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:51.970 
+> SVK <= VAN[     5] = 0505050505
+> SVK => VAN Time Check : 2025-09-19 11:23:52.008 
+> SVK => VAN[   149] = 02303134395632303230303930564138573131383639323931303030301C4441444B313930343035303935303820203041202020202020205020202020201C4423232344414F552D56504159313030302323444B5352444536333352443131301C323034383632393037331C1C1C35382D31312D32322D42432D39302D36451C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C0342413638
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.086 
+> SVK <= VAN[     5] = 0606060606
+SVK : Select OK !! [29 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.155 
+> SVK <= VAN[    36] = 02303733365632303231303930564138573131383639323931303030301C303030301C59
+SVK : Select OK !! [29 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.256 
+> SVK <= VAN[   700] = 4E4E4E4E20202020202020202020201C32303235303931393131323335311C28C1D629BDBAB8B6C6AEC5A5BAEA1CBCADBFEF20B8B6C6F7B1B820C3A2C0FCB7CE20373020C8ADBCF6B8F1BAF4B5F933C3FE1C313636312D353832301CC0AFBDC3BFAC1C30322D3431382D31323537202020BFA1C0CCBFA3C6BC28414E54291C3138373738313230202020203136383835393939202020203232322E3130362E39392E313334203130303731203232322E3130362E39392E313333203130303731201C3138373738313230202020203136383835393939202020203232322E3130362E39392E313334203130303731203232322E3130362E39392E313333203130303731201C3135343433303734202020203135343433303734202020203232322E3130362E39392E313334203130303931203232322E3130362E39392E313333203130303931201C3135343433303734202020203135343433303734202020203232322E3130362E39392E313334203130303931203232322E3130362E39392E313333203130303931201C3136383837333532202020203136383837333532202020203232322E3130362E39392E313334203430303131203232322E3130362E39392E313334203430303131201C1C4D444C4D635766676236687A776367415074597535732B5966584359466142324B68585A4D56655A364C2F535378386A707234503239657149614B495562547A354A4A4475554F5152416B6E4141706A7131502F554B4968616537435654446863386E36312F62624769694936423066472F556746426171546164536B444335356155715A787350633632677133716F776A47385365777242732B4E47743669366262556C4B4B582B756E6443773D3D1C3333303741314239393531303245391C1C1C1C1C203D20B4DCB8BBB1E2B0B3BDC3203D201EB4DCB8BBB1E220B0B3BDC320BFCFB7E11C1C0345443333
+> SVK => VAN Time Check : 2025-09-19 11:23:52.308 
+> SVK => VAN[     5] = 0606060606
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.386 
+> SVK <= VAN[     5] = 0404040404
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.740 
+> SVK <= VAN[     5] = 0505050505
+> SVK => VAN Time Check : 2025-09-19 11:23:52.799 
+> SVK => VAN[   265] = 02303236355632303230303931564138573131383639323931303030301C4441444B313930343035303935303820202041202020202020205020202020201C1C4D444A6C58644A306D57716473716B76374D476742536A44785870647A445944496835477A7057517962324C5330475566426A3735306B4759584164536A615030686C744D534D454E5A346A4D342B785A41674145787768486873596D684E33303476416441666241515358706A394C79396F753541706E7072666B697264624B4841414C6536426F6765573838356D47543730716274476376574958706856354444386E3447713649535078513D3D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C0336344442
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.872 
+> SVK <= VAN[     5] = 0606060606
+SVK : Select OK !! [29 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:52.940 
+> SVK <= VAN[    36] = 02303530345632303231303931564138573131383639323931303030301C303030301C4E
+SVK : Select OK !! [29 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:53.009 
+> SVK <= VAN[   468] = 4E4E4E4E20202020202020202020201C32303235303931393131323335311C1C1C1C1C1C3138373738313230202020203136383835393939202020203232322E3130362E39392E313334203130303731203232322E3130362E39392E313333203130303731201C3138373738313230202020203136383835393939202020203232322E3130362E39392E313334203130303731203232322E3130362E39392E313333203130303731201C3135343433303734202020203135343433303734202020203232322E3130362E39392E313334203130303931203232322E3130362E39392E313333203130303931201C3135343433303734202020203135343433303734202020203232322E3130362E39392E313334203130303931203232322E3130362E39392E313333203130303931201C3136383837333532202020203136383837333532202020203232322E3130362E39392E313334203430303131203232322E3130362E39392E313334203430303131201C31331C4943414751497A37567A4754517644577A6D635A365577491C4F546B354F33746C576D6C48587561624338674967692F6D1C1C301C1C1C3D20BECFC8A3C8ADC5B0B0BBBDC5203D1E1E2020C5B020B0BBBDC520BFCFB7E11C1C0333363030
+> SVK => VAN Time Check : 2025-09-19 11:23:53.056 
+> SVK => VAN[     5] = 0606060606
+SVK : Select OK !! [2 sec] 
+Socket ID = [1676] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:53.141 
+> SVK <= VAN[     5] = 0404040404
+! SVK Return Value : 1
+! 1000 : 정상 처리 완료, 일반 전표 인쇄 
+> VP <= SVK[   330] = '0210901186929100000000YNNNN           20250919112351(주)스마트큐브          서울 마포구 창전로 70 화수목빌딩3층                                                                 1661-5820     유시연      02-418-1257   에이엔티(ANT)                                   = 단말기개시 = 단말기 개시 완료                                  '
+-----------------------------------------------------
+   SVK::Rcv Packet Debug Print
+-----------------------------------------------------
+rTeleNo               [     4] = '0210'
+rJobCode              [     2] = '90'
+rTID                  [     8] = '11869291'
+rSlipNo               [     4] = '0000'
+rResCode              [     4] = '0000'
+rResInfo              [    16] = 'YNNNN           '
+rDateTime             [    14] = '20250919112351'
+rShopName             [    24] = '(주)스마트큐브          '
+rShopAddr             [   100] = '서울 마포구 창전로 70 화수목빌딩3층                                                                 '
+rShopTel              [    14] = '1661-5820     '
+rShopCeo              [    12] = '유시연      '
+rAgencyInfo           [    54] = '02-418-1257   에이엔티(ANT)                           '
+rCashIcNoPin          [     7] = '       '
+rDisplayMsg           [    67] = ' = 단말기개시 = 단말기 개시 완료                                  '
+-----------------------------------------------------
+! POS ID is Response Code - TRUE
+! is Response Code - TRUE
+
+#######################################################################
+        VP => READER : 보안인증(K800) 요청
+#######################################################################
+! COM7 Open OK
+
+# IcRd::Init Packet : 14
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 14
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K800'
+tDateTime            [    14] = '20250919112353'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 11:23:54.189 
+> IcRd Tx[    45] = 02303034354B3830301C32303235303931393131323335331C31313836393239311C1C1C1C1C1C1C0330393739
+> Set Reader TimeOut[914][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 914 ] 
+> Set Reader TimeOut[914][5000]
+> IcRd Rx[5000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303037314B3831301C303030301C52351C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0331434342First=060602303037314B3831301C303030301C52351C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0331434342
+Rf=00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 914 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 11:23:54.490 
+> PacketReader - 0071K8100000R5##DKSRDE633R    D110            DK190405091CCB ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0071'
+rTeleNo               [     4] = 'K810'
+rResCode              [     4] = '0000'
+rPkVersion            [     2] = 'R5'
+rDeviceInfo           [    42] = '##DKSRDE633R    D110            DK19040509'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+! CASH VPAD CLOSE ! 
+! COM7 Close
+! IcRd::Result OK[0000]
+
+#######################################################################
+        VP => SVK : 단말기 보안인증(0200/9C) 요청
+#######################################################################
+
+# SVK::Init Packet : 41
+# SVK::SndPacketCopySvkToTxBuf : 41
+-----------------------------------------------------
+   SVK::Snd Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0200'
+tJobCode             [     2] = '9C'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+tEncInfo             [    33] = 'D###DAOU-VPAY1000##DKSRDE633RD110'
+tModuleInfo          [    26] = '##DKSRDE633R    DK19040509'
+tPkVersion           [     2] = 'R5'
+-----------------------------------------------------
+> VP => SVK[    93] = '02009C1186929100000             D###DAOU-VPAY1000##DKSRDE633RD110##DKSRDE633R    DK19040509R5'
+PD = ! 3307A1B995102E9 ! 
+MAC ADDRESS = ! 58-11-22-BC-90-6E ! 
+ SVK : Select OK !! [2 sec] 
+Socket ID = [1680] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:55.762 
+> SVK <= VAN[     5] = 0505050505
+> SVK => VAN Time Check : 2025-09-19 11:23:55.816 
+> SVK => VAN[   150] = 02303135305632303230303943564138573131383639323931303030301C4441444B313930343035303935303820203041202020202020205020202020201C4423232344414F552D56504159313030302323444B5352444536333352443131301C2323444B535244453633335220202020444B31393034303530391C52351C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C0341313945
+SVK : Select OK !! [2 sec] 
+Socket ID = [1680] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:55.894 
+> SVK <= VAN[     5] = 0606060606
+SVK : Select OK !! [29 sec] 
+Socket ID = [1680] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:55.974 
+> SVK <= VAN[    36] = 02303534385632303231303943564138573131383639323931303030301C303030301C4E
+SVK : Select OK !! [29 sec] 
+Socket ID = [1680] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:56.047 
+> SVK <= VAN[   512] = 4E4E4E4E20202020202020202020201C32303235303931393131323335341C4D6A41794E5441354D546B784D54497A4E5451314D6A41794E5441354D546B784D54497A4E5451314D6A41424F65504A783378746C6361544D6F6F4746664F4F67465041475875744D79754A6A4D646F4B5143334271792B383367586164444E59665A4A6E6C3843674B554259756E7139703339576C457149707A4F49384B4C516C787A544D4E4A412F57346E547745324850767A306B736E5772344B3951344C497265325333524B31443854386C574F5A6B445078786136545A33714A724F354C30433132752F596A544B6A4734784F65397A7655355536555073794C315855364B7A756652373451585831766C76346A625A70314466775A55317538693169496265373655764A476E6A7367737339664637674568577A3532414E427862625A425166484E577553666474734F6B58614A2F6C3476435A6E397457777A4167562F37475337326151634F4C333047357236475A725A465965704A6A756F57322F6F353176467754316D3869346F32713235417A425045684F464C6D745263317846344B6259534F55387244387930675572546C3848334F55462B42306D3059523368322F4D6D3855673D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C203D20BAB8BEC82020C0CEC1F5203D201E202020C1B6C8B820BFCFB7E11C1C0332354642
+> SVK => VAN Time Check : 2025-09-19 11:23:56.094 
+> SVK => VAN[     5] = 0606060606
+SVK : Select OK !! [2 sec] 
+Socket ID = [1680] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:56.163 
+> SVK <= VAN[     5] = 0404040404
+! SVK Return Value : 1
+! 1000 : 정상 처리 완료, 일반 전표 인쇄 
+> VP <= SVK[   547] = '02109C1186929100000000NNNNN           20250919112354MjAyNTA5MTkxMTIzNTQ1MjAyNTA5MTkxMTIzNTQ1MjABOePJx3xtlcaTMooGFfOOgFPAGXutMyuJjMdoKQC3Bqy+83gXadDNYfZJnl8CgKUBYunq9p39WlEqIpzOI8KLQlxzTMNJA/W4nTwE2HPvz0ksnWr4K9Q4LIre2S3RK1D8T8lWOZkDPxxa6TZ3qJrO5L0C12u/YjTKjG4xOe9zvU5U6UPsyL1XU6KzufR74QXX1vlv4jbZp1DfwZU1u8i1iIbe76UvJGnjsgss9fF7gEhWz52ANBxbbZBQfHNWuSfdtsOkXaJ/l4vCZn9tWwzAgV/7GS72aQcOL30G5r6GZrZFYepJjuoW2/o51vFwT1m8i4o2q25AzBPEhOFLmtRc1xF4KbYSOU8rD8y0gUrTl8H3OUF+B0m0YR3h2/Mm8Ug= = 보안  인증 =    조회 완료                                      '
+-----------------------------------------------------
+   SVK::Rcv Packet Debug Print
+-----------------------------------------------------
+rTeleNo               [     4] = '0210'
+rJobCode              [     2] = '9C'
+rTID                  [     8] = '11869291'
+rSlipNo               [     4] = '0000'
+rResCode              [     4] = '0000'
+rResInfo              [    16] = 'NNNNN           '
+rDateTime             [    14] = '20250919112354'
+rServRandomKey        [   428] = 'MjAyNTA5MTkxMTIzNTQ1MjAyNTA5MTkxMTIzNTQ1MjABOePJx3xtlcaTMooGFfOOgFPAGXutMyuJjMdoKQC3Bqy+83gXadDNYfZJnl8CgKUBYunq9p39WlEqIpzOI8KLQlxzTMNJA/W4nTwE2HPvz0ksnWr4K9Q4LIre2S3RK1D8T8lWOZkDPxxa6TZ3qJrO5L0C12u/YjTKjG4xOe9zvU5U6UPsyL1XU6KzufR74QXX1vlv4jbZp1DfwZU1u8i1iIbe76UvJGnjsgss9fF7gEhWz52ANBxbbZBQfHNWuSfdtsOkXaJ/l4vCZn9tWwzAgV/7GS72aQcOL30G5r6GZrZFYepJjuoW2/o51vFwT1m8i4o2q25AzBPEhOFLmtRc1xF4KbYSOU8rD8y0gUrTl8H3OUF+B0m0YR3h2/Mm8Ug='
+rDisplayMsg           [    67] = ' = 보안  인증 =    조회 완료                                      '
+-----------------------------------------------------
+! is Response Code - TRUE
+
+#######################################################################
+        VP => READER : 보안인증(K820) 요청
+#######################################################################
+! COM7 Open OK
+
+# IcRd::Init Packet : 15
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 15
+tLength              [     4] = '0473'
+tTeleNo              [     4] = 'K820'
+tDateTime            [    14] = '20250919112356'
+tTID                 [     8] = '11869291'
+tServRandomKey       [   428] = 'MjAyNTA5MTkxMTIzNTQ1MjAyNTA5MTkxMTIzNTQ1MjABOePJx3xtlcaTMooGFfOOgFPAGXutMyuJjMdoKQC3Bqy+83gXadDNYfZJnl8CgKUBYunq9p39WlEqIpzOI8KLQlxzTMNJA/W4nTwE2HPvz0ksnWr4K9Q4LIre2S3RK1D8T8lWOZkDPxxa6TZ3qJrO5L0C12u/YjTKjG4xOe9zvU5U6UPsyL1XU6KzufR74QXX1vlv4jbZp1DfwZU1u8i1iIbe76UvJGnjsgss9fF7gEhWz52ANBxbbZBQfHNWuSfdtsOkXaJ/l4vCZn9tWwzAgV/7GS72aQcOL30G5r6GZrZFYepJjuoW2/o51vFwT1m8i4o2q25AzBPEhOFLmtRc1xF4KbYSOU8rD8y0gUrTl8H3OUF+B0m0YR3h2/Mm8Ug='
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 11:23:57.018 
+> IcRd Tx[   473] = 02303437334B3832301C32303235303931393131323335361C31313836393239311C4D6A41794E5441354D546B784D54497A4E5451314D6A41794E5441354D546B784D54497A4E5451314D6A41424F65504A783378746C6361544D6F6F4746664F4F67465041475875744D79754A6A4D646F4B5143334271792B383367586164444E59665A4A6E6C3843674B554259756E7139703339576C457149707A4F49384B4C516C787A544D4E4A412F57346E547745324850767A306B736E5772344B3951344C497265325333524B31443854386C574F5A6B445078786136545A33714A724F354C30433132752F596A544B6A4734784F65397A7655355536555073794C315855364B7A756652373451585831766C76346A625A70314466775A55317538693169496265373655764A476E6A7367737339664637674568577A3532414E427862625A425166484E577553666474734F6B58614A2F6C3476435A6E397457777A4167562F37475337326151634F4C333047357236475A725A465965704A6A756F57322F6F353176467754316D3869346F32713235417A425045684F464C6D745263317846344B6259534F55387244387930675572546C3848334F55462B42306D3059523368322F4D6D3855673D1C1C1C1C1C1C0346314334
+> Set Reader TimeOut[915][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 915 ] 
+> Set Reader TimeOut[915][6000]
+> IcRd Rx[6000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303431334B3833301C303030301C1C4F4A326F41716B5758714648626B4765506F484C2B472B524D32316E596B4A5A717A597132505263575A6D2F756B3578544C446456327733554F714B31704F4145742B65776B74556D554A4F7862564D7A4E377343696751676C2B5646543050346F6D3936716E4253587250506D6F5164776A354864372F63794F3258614567356D446D54444F6B6B4F7A58694C55617A5357315A445439566B7A61734C2B6C706930764468624D584941686C724B31324F724F78746C426A6562466961624F664176486A35744967654267464545476F6D593948685670784C6F356867744A6E394245653176763554503864474F595A2F4E6B766155514E61334A6E3277714135763158755A2F485562665A59594D30514A76687053623538616C4F6A49502B387A446441716A7943686143573843454A5847722B79302B6554733575734370577A706D4E4145657A7041374945414448475873413D3D1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0346373341First=060602303431334B3833301C303030301C1C4F4A326F41716B5758714648626B4765506F484C2B472B524D32316E596B4A5A717A597132505263575A6D2F756B3578544C446456327733554F714B31704F4145742B65776B74556D554A4F7862564D7A4E377343696751676C2B5646543050346F6D3936716E4253587250506D6F5164776A354864372F63794F3258614567356D446D54444F6B6B4F7A58694C55617A5357315A445439566B7A61734C2B6C706930764468624D584941686C724B31324F724F78746C426A6562466961624F664176486A35744967654267464545476F6D593948685670784C6F356867744A6E394245653176763554503864474F595A2F4E6B766155514E61334A6E3277714135763158755A2F485562665A59594D30514A76687053623538616C4F6A49502B387A446441716A7943686143573843454A5847722B79302B6554733575734370577A706D4E4145657A7041374945414448475873413D3D1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0346373341
+Rf=00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 915 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 11:23:57.350 
+> PacketReader - 0413K8300000OJ2oAqkWXqFHbkGePoHL+G+RM21nYkJZqzYq2PRcWZm/uk5xTLDdV2w3UOqK1pOAEt+ewktUmUJOxbVMzN7sCigQgl+VFT0P4om96qnBSXrPPmoQdwj5Hd7/cyO2XaEg5mDmTDOkkOzXiLUazSW1ZDT9VkzasL+lpi0vDhbMXIAhlrK12OrOxtlBjebFiabOfAvHj5tIgeBgFEEGomY9HhVpxLo5hgtJn9BEe1vv5TP8dGOYZ/NkvaUQNa3Jn2wqA5v1XuZ/HUbfZYYM0QJvhpSb58alOjIP+8zDdAqjyChaCW8CEJXGr+y0+eTs5usCpWzpmNAEezpA7IEADHGXsA==##DKSRDE633R    D110            DK19040509F73A ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0413'
+rTeleNo               [     4] = 'K830'
+rResCode              [     4] = '0000'
+rTermRandomKey        [   344] = 'OJ2oAqkWXqFHbkGePoHL+G+RM21nYkJZqzYq2PRcWZm/uk5xTLDdV2w3UOqK1pOAEt+ewktUmUJOxbVMzN7sCigQgl+VFT0P4om96qnBSXrPPmoQdwj5Hd7/cyO2XaEg5mDmTDOkkOzXiLUazSW1ZDT9VkzasL+lpi0vDhbMXIAhlrK12OrOxtlBjebFiabOfAvHj5tIgeBgFEEGomY9HhVpxLo5hgtJn9BEe1vv5TP8dGOYZ/NkvaUQNa3Jn2wqA5v1XuZ/HUbfZYYM0QJvhpSb58alOjIP+8zDdAqjyChaCW8CEJXGr+y0+eTs5usCpWzpmNAEezpA7IEADHGXsA=='
+rDeviceInfo           [    42] = '##DKSRDE633R    D110            DK19040509'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+! CASH VPAD CLOSE ! 
+! COM7 Close
+! IcRd::Result OK[0000]
+
+#######################################################################
+        VP => SVK : 단말기 보안키 다운로드 (0200 / 9D) 요청
+#######################################################################
+
+# SVK::Init Packet : 42
+# SVK::SndPacketCopySvkToTxBuf : 42
+-----------------------------------------------------
+   SVK::Snd Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0200'
+tJobCode             [     2] = '9D'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+tEncInfo             [    33] = 'D###DAOU-VPAY1000##DKSRDE633RD110'
+tModuleInfo          [    26] = '##DKSRDE633R    DK19040509'
+tTermRandomKey       [   344] = 'OJ2oAqkWXqFHbkGePoHL+G+RM21nYkJZqzYq2PRcWZm/uk5xTLDdV2w3UOqK1pOAEt+ewktUmUJOxbVMzN7sCigQgl+VFT0P4om96qnBSXrPPmoQdwj5Hd7/cyO2XaEg5mDmTDOkkOzXiLUazSW1ZDT9VkzasL+lpi0vDhbMXIAhlrK12OrOxtlBjebFiabOfAvHj5tIgeBgFEEGomY9HhVpxLo5hgtJn9BEe1vv5TP8dGOYZ/NkvaUQNa3Jn2wqA5v1XuZ/HUbfZYYM0QJvhpSb58alOjIP+8zDdAqjyChaCW8CEJXGr+y0+eTs5usCpWzpmNAEezpA7IEADHGXsA=='
+-----------------------------------------------------
+> VP => SVK[   435] = '02009D1186929100000             D###DAOU-VPAY1000##DKSRDE633RD110##DKSRDE633R    DK19040509OJ2oAqkWXqFHbkGePoHL+G+RM21nYkJZqzYq2PRcWZm/uk5xTLDdV2w3UOqK1pOAEt+ewktUmUJOxbVMzN7sCigQgl+VFT0P4om96qnBSXrPPmoQdwj5Hd7/cyO2XaEg5mDmTDOkkOzXiLUazSW1ZDT9VkzasL+lpi0vDhbMXIAhlrK12OrOxtlBjebFiabOfAvHj5tIgeBgFEEGomY9HhVpxLo5hgtJn9BEe1vv5TP8dGOYZ/NkvaUQNa3Jn2wqA5v1XuZ/HUbfZYYM0QJvhpSb58alOjIP+8zDdAqjyChaCW8CEJXGr+y0+eTs5usCpWzpmNAEezpA7IEADHGXsA=='
+PD = ! 3307A1B995102E9 ! 
+MAC ADDRESS = ! 58-11-22-BC-90-6E ! 
+ SVK : Select OK !! [2 sec] 
+Socket ID = [1628] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:58.568 
+> SVK <= VAN[     5] = 0505050505
+> SVK => VAN Time Check : 2025-09-19 11:23:58.619 
+> SVK => VAN[   492] = 02303439325632303230303944564138573131383639323931303030301C4441444B313930343035303935303820203041202020202020205020202020201C4423232344414F552D56504159313030302323444B5352444536333352443131301C2323444B535244453633335220202020444B31393034303530391C4F4A326F41716B5758714648626B4765506F484C2B472B524D32316E596B4A5A717A597132505263575A6D2F756B3578544C446456327733554F714B31704F4145742B65776B74556D554A4F7862564D7A4E377343696751676C2B5646543050346F6D3936716E4253587250506D6F5164776A354864372F63794F3258614567356D446D54444F6B6B4F7A58694C55617A5357315A445439566B7A61734C2B6C706930764468624D584941686C724B31324F724F78746C426A6562466961624F664176486A35744967654267464545476F6D593948685670784C6F356867744A6E394245653176763554503864474F595A2F4E6B766155514E61334A6E3277714135763158755A2F485562665A59594D30514A76687053623538616C4F6A49502B387A446441716A7943686143573843454A5847722B79302B6554733575734370577A706D4E4145657A7041374945414448475873413D3D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C0344343442
+SVK : Select OK !! [2 sec] 
+Socket ID = [1628] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:58.691 
+> SVK <= VAN[     5] = 0606060606
+SVK : Select OK !! [29 sec] 
+Socket ID = [1628] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:58.768 
+> SVK <= VAN[    36] = 02303232305632303231303944564138573131383639323931303030301C303030301C4E
+SVK : Select OK !! [29 sec] 
+Socket ID = [1628] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:58.837 
+> SVK <= VAN[   184] = 4E4E4E4E20202020202020202020201C32303235303931393131323335371C774D4854414B786536546D45793777594F31656E37536950583033744F7752464B5150795A7A6464764C464C4658446A4F6746764D6945432B33496D46576548667556654179456E4C6876367861796F64694A3555673D3D1C5A334D6133776A623162553D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C20BAB8BEC8C5B0B4D9BFEEB7CEB5E51E20C5B020B0BBBDC520BFCFB7E11C1C0331344239
+> SVK => VAN Time Check : 2025-09-19 11:23:58.884 
+> SVK => VAN[     5] = 0606060606
+SVK : Select OK !! [2 sec] 
+Socket ID = [1628] 
+> SVK <= VAN Time Check : 2025-09-19 11:23:58.969 
+> SVK <= VAN[     5] = 0404040404
+! SVK Return Value : 1
+! 1000 : 정상 처리 완료, 일반 전표 인쇄 
+> VP <= SVK[   219] = '02109D1186929100000000NNNNN           20250919112357wMHTAKxe6TmEy7wYO1en7SiPX03tOwRFKQPyZzddvLFLFXDjOgFvMiEC+3ImFWeHfuVeAyEnLhv6xayodiJ5Ug==Z3Ma3wjb1bU= 보안키다운로드 키 갱신 완료                                      '
+-----------------------------------------------------
+   SVK::Rcv Packet Debug Print
+-----------------------------------------------------
+rTeleNo               [     4] = '0210'
+rJobCode              [     2] = '9D'
+rTID                  [     8] = '11869291'
+rSlipNo               [     4] = '0000'
+rResCode              [     4] = '0000'
+rResInfo              [    16] = 'NNNNN           '
+rDateTime             [    14] = '20250919112357'
+rSKey                 [    88] = 'wMHTAKxe6TmEy7wYO1en7SiPX03tOwRFKQPyZzddvLFLFXDjOgFvMiEC+3ImFWeHfuVeAyEnLhv6xayodiJ5Ug=='
+rMac                  [    12] = 'Z3Ma3wjb1bU='
+rDisplayMsg           [    67] = ' 보안키다운로드 키 갱신 완료                                      '
+-----------------------------------------------------
+! is Response Code - TRUE
+
+#######################################################################
+        VP => READER : 보안키 다운로드(K840) 요청
+#######################################################################
+! COM7 Open OK
+
+# IcRd::Init Packet : 16
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 16
+tLength              [     4] = '0145'
+tTeleNo              [     4] = 'K840'
+tDateTime            [    14] = '20250919112359'
+tTID                 [     8] = '11869291'
+tSecKey              [    88] = 'wMHTAKxe6TmEy7wYO1en7SiPX03tOwRFKQPyZzddvLFLFXDjOgFvMiEC+3ImFWeHfuVeAyEnLhv6xayodiJ5Ug=='
+tMac                 [    12] = 'Z3Ma3wjb1bU='
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 11:23:59.906 
+> IcRd Tx[   145] = 02303134354B3834301C32303235303931393131323335391C31313836393239311C774D4854414B786536546D45793777594F31656E37536950583033744F7752464B5150795A7A6464764C464C4658446A4F6746764D6945432B33496D46576548667556654179456E4C6876367861796F64694A3555673D3D1C5A334D6133776A623162553D1C1C1C1C1C0330373745
+> Set Reader TimeOut[916][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 916 ] 
+> Set Reader TimeOut[916][5000]
+> IcRd Rx[5000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303036394B3835301C303030301C1C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0336433445First=060602303036394B3835301C303030301C1C1C1C1C2323444B53524445363333522020202044313130202020202020202020202020444B31393034303530391C1C1C0336433445
+Rf=0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 916 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 11:24:00.210 
+> PacketReader - 0069K8500000##DKSRDE633R    D110            DK190405096C4E ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0069'
+rTeleNo               [     4] = 'K850'
+rResCode              [     4] = '0000'
+rDeviceInfo           [    42] = '##DKSRDE633R    D110            DK19040509'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+! CASH VPAD CLOSE ! 
+! COM7 Close
+! IcRd::Result OK[0000]
+#######################################################################
+-----------------------------------------------------
+   Read Ini File - CIC NO-PINt
+-----------------------------------------------------
+m_strCashIcNoPin    [     0] = ''
+m_strCashIcNoPin_YN    [     1] = 'N'
+-----------------------------------------------------
+
+# Main PaymentProcess End 
+Tv Accept Time Check : 2025-09-19 14:03:23.522 
+> Server Socket - Accepted : S(192.168.1.23) <- C(127.0.0.1) 
+Tv Recv Time Check : 2025-09-19 14:03:23.537 
+H-RxData[   151] = 3031303031303131383639323931303030303020202020202020202020202020303031303030302020202020202031303120202020202020202031303030202020202020202020202020202020202020202032303235303931392020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020201C
+S-RxData[   151] = '0100101186929100000             0010000       101         1000                    20250919                                                            '
+# POS::Rcv Packet Status Check = [2]
+# Flush Packet  Buf.
+# POS::Rcv Packet PutBuf 
+! Pack Rcv Complete...R[151]C[144]
+-----------------------------------------------------
+   IniPacket read InCompData from Ini File
+-----------------------------------------------------
+m_strIncompData         [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+-----------------------------------------------------
+
+# POS::Init Packet :  1
+-----------------------------------------------------
+   POS::Rcv Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0100'
+tJobCode             [     2] = '10'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+-----------------------------------------------------
+tInstallment         [     2] = '00'
+tSaleAmount          [    12] = '10000       '
+tTipAmount           [    12] = '101         '
+tTaxAmount           [    12] = '1000        '
+tNonTaxAmount        [    12] = '            '
+tOrgDate             [     8] = '20250919'
+tOrgAppNo            [    12] = '            '
+tShopData            [    42] = '                                          '
+tRecyleAmount			[     6] = '      '
+tOilInfo				[     0] = ''
+-----------------------------------------------------
+--------------------Variable Filed-------------------
+-----------------------------------------------------
+! Receive TID = 11869291
+! DaouVP TID = 11869291
+! Check TID - TRUE ! 
+
+# Main TransationProc Start 
+! COM7 Open OK
+
+@ PROC STEP : 10...PROCSTEP_INPUT_CARD_READER
+#######################################################################
+        VP => READER : 카드 입력 요청  K100/K180 
+#######################################################################
+
+# IcRd::Init Packet : 20
+
+# IcRd::Init Packet :  1
+Create MSGINFO ! 
+Start Hook ! 
+Hook Create ! 
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID :  1
+tLength              [     4] = '0051'
+tTeleNo              [     4] = 'K100'
+tDateTime            [    14] = '20250919140324'
+tTID                 [     8] = '11869291'
+tSaleAmount          [     5] = '10000'
+tInputType           [     1] = '1'
+tARQC_Regen           [     0] = ''
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:03:25.195 
+> IcRd Tx[    51] = 02303035314B3130301C32303235303931393134303332341C31313836393239311C31303030301C311C1C1C1C1C0343363041
+> Set Reader TimeOut[901][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 901 ] 
+> Set Reader TimeOut[901][24000]
+> IcRd Rx[24000] = [
+
+> ! CMsgInfo::OnBtnMsgInfo() : m_bEventCancel = TRUE 
+
+! Reader ComPortReceive - m_bEventCancel : Get TRUE 
+0606First=0606
+Rf=0000
+]
+
+! Timer Stop = [ 901 ] 
+> COM CANCEL STEP ! 
+
+# IcRd::Init Packet : 20
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 20
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K980'
+tDateTime            [    14] = '20250919140327'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:03:27.774 
+> IcRd Tx[    45] = 02303034354B3938301C32303235303931393134303332371C31313836393239311C1C1C1C1C1C1C0337343043
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+> Set Reader TimeOut[920][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 920 ] 
+> Set Reader TimeOut[920][10000]
+> IcRd Rx[10000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741First=060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741
+Rf=0000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 920 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 14:03:28.067 
+> PacketReader - 0027K9900000577A ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0027'
+rTeleNo               [     4] = 'K990'
+rResCode              [     4] = '0000'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+m_strNewDialogOff = N ! 
+Delet MSGINFO ! 
+
+! Hook Destroy ! 
+Un Hook ! 
+! CASH VPAD CLOSE ! 
+
+@ PROC STEP : 2...PROCSTEP_ERROR_READER
+! POS ERROR CODE : K990
+> VP => POS Time Check : 2025-09-19 14:03:28.361 
+> VP => POS[     4] = 'K990'
+
+@ SndPacketErrorResult return : 1
+! COM7 Close
+! COM0 Close - AlReady - Second Reader !
+
+# IcRd::Init Packet :  0
+#######################################################################
+
+# Main PaymentProcess End 
+
+> ! CDaouVPDlg::OnSocketClose 1539 m_bEventCancel = TRUE 
+Tv Close Time Check : 2025-09-19 14:03:29.543 
+> Server Socket - Disconneted !! 
+Tv Accept Time Check : 2025-09-19 14:03:35.046 
+> Server Socket - Accepted : S(192.168.1.23) <- C(127.0.0.1) 
+Tv Recv Time Check : 2025-09-19 14:03:35.059 
+H-RxData[   151] = 3031303031303131383639323931303030303020202020202020202020202020303031303030302020202020202031303120202020202020202031303030202020202020202020202020202020202020202032303235303931392020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020201C
+S-RxData[   151] = '0100101186929100000             0010000       101         1000                    20250919                                                            '
+# POS::Rcv Packet Status Check = [0]
+# Flush Packet  Buf.
+# POS::Rcv Packet PutBuf 
+! Pack Rcv Complete...R[151]C[144]
+-----------------------------------------------------
+   IniPacket read InCompData from Ini File
+-----------------------------------------------------
+m_strIncompData         [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+-----------------------------------------------------
+
+# POS::Init Packet :  1
+-----------------------------------------------------
+   POS::Rcv Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0100'
+tJobCode             [     2] = '10'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+-----------------------------------------------------
+tInstallment         [     2] = '00'
+tSaleAmount          [    12] = '10000       '
+tTipAmount           [    12] = '101         '
+tTaxAmount           [    12] = '1000        '
+tNonTaxAmount        [    12] = '            '
+tOrgDate             [     8] = '20250919'
+tOrgAppNo            [    12] = '            '
+tShopData            [    42] = '                                          '
+tRecyleAmount			[     6] = '      '
+tOilInfo				[     0] = ''
+-----------------------------------------------------
+--------------------Variable Filed-------------------
+-----------------------------------------------------
+! Receive TID = 11869291
+! DaouVP TID = 11869291
+! Check TID - TRUE ! 
+
+# Main TransationProc Start 
+! COM7 Open OK
+
+@ PROC STEP : 10...PROCSTEP_INPUT_CARD_READER
+#######################################################################
+        VP => READER : 카드 입력 요청  K100/K180 
+#######################################################################
+
+# IcRd::Init Packet : 20
+
+# IcRd::Init Packet :  1
+Create MSGINFO ! 
+Start Hook ! 
+Hook Create ! 
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID :  1
+tLength              [     4] = '0051'
+tTeleNo              [     4] = 'K100'
+tDateTime            [    14] = '20250919140336'
+tTID                 [     8] = '11869291'
+tSaleAmount          [     5] = '10000'
+tInputType           [     1] = '1'
+tARQC_Regen           [     0] = ''
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:03:36.661 
+> IcRd Tx[    51] = 02303035314B3130301C32303235303931393134303333361C31313836393239311C31303030301C311C1C1C1C1C0345444238
+> Set Reader TimeOut[901][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 901 ] 
+> Set Reader TimeOut[901][24000]
+> IcRd Rx[24000] = [
+
+> ! CMsgInfo::OnBtnMsgInfo() : m_bEventCancel = TRUE 
+
+! Reader ComPortReceive - m_bEventCancel : Get TRUE 
+0606First=0606
+Rf=0000
+]
+
+! Timer Stop = [ 901 ] 
+> COM CANCEL STEP ! 
+
+# IcRd::Init Packet : 20
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 20
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K980'
+tDateTime            [    14] = '20250919140337'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:03:38.107 
+> IcRd Tx[    45] = 02303034354B3938301C32303235303931393134303333371C31313836393239311C1C1C1C1C1C1C0341413133
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+> Set Reader TimeOut[920][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 920 ] 
+> Set Reader TimeOut[920][10000]
+> IcRd Rx[10000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741First=060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741
+Rf=0000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 920 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 14:03:38.410 
+> PacketReader - 0027K9900000577A ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0027'
+rTeleNo               [     4] = 'K990'
+rResCode              [     4] = '0000'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+m_strNewDialogOff = N ! 
+Delet MSGINFO ! 
+
+! Hook Destroy ! 
+Un Hook ! 
+! CASH VPAD CLOSE ! 
+
+@ PROC STEP : 2...PROCSTEP_ERROR_READER
+! POS ERROR CODE : K990
+> VP => POS Time Check : 2025-09-19 14:03:38.709 
+> VP => POS[     4] = 'K990'
+
+@ SndPacketErrorResult return : 1
+! COM7 Close
+! COM0 Close - AlReady - Second Reader !
+
+# IcRd::Init Packet :  0
+#######################################################################
+
+# Main PaymentProcess End 
+
+> ! CDaouVPDlg::OnSocketClose 1539 m_bEventCancel = TRUE 
+Tv Close Time Check : 2025-09-19 14:03:39.893 
+> Server Socket - Disconneted !! 
+Tv Accept Time Check : 2025-09-19 14:23:08.422 
+> Server Socket - Accepted : S(192.168.1.23) <- C(127.0.0.1) 
+Tv Recv Time Check : 2025-09-19 14:23:08.435 
+H-RxData[   151] = 3031303031303131383639323931303030303020202020202020202020202020303031303030302020202020202031303120202020202020202031303030202020202020202020202020202020202020202032303235303931392020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020201C
+S-RxData[   151] = '0100101186929100000             0010000       101         1000                    20250919                                                            '
+# POS::Rcv Packet Status Check = [0]
+# Flush Packet  Buf.
+# POS::Rcv Packet PutBuf 
+! Pack Rcv Complete...R[151]C[144]
+-----------------------------------------------------
+   IniPacket read InCompData from Ini File
+-----------------------------------------------------
+m_strIncompData         [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+-----------------------------------------------------
+
+# POS::Init Packet :  1
+-----------------------------------------------------
+   POS::Rcv Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0100'
+tJobCode             [     2] = '10'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+-----------------------------------------------------
+tInstallment         [     2] = '00'
+tSaleAmount          [    12] = '10000       '
+tTipAmount           [    12] = '101         '
+tTaxAmount           [    12] = '1000        '
+tNonTaxAmount        [    12] = '            '
+tOrgDate             [     8] = '20250919'
+tOrgAppNo            [    12] = '            '
+tShopData            [    42] = '                                          '
+tRecyleAmount			[     6] = '      '
+tOilInfo				[     0] = ''
+-----------------------------------------------------
+--------------------Variable Filed-------------------
+-----------------------------------------------------
+! Receive TID = 11869291
+! DaouVP TID = 11869291
+! Check TID - TRUE ! 
+
+# Main TransationProc Start 
+! COM7 Open OK
+
+@ PROC STEP : 10...PROCSTEP_INPUT_CARD_READER
+#######################################################################
+        VP => READER : 카드 입력 요청  K100/K180 
+#######################################################################
+
+# IcRd::Init Packet : 20
+
+# IcRd::Init Packet :  1
+Create MSGINFO ! 
+Start Hook ! 
+Hook Create ! 
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID :  1
+tLength              [     4] = '0051'
+tTeleNo              [     4] = 'K100'
+tDateTime            [    14] = '20250919142309'
+tTID                 [     8] = '11869291'
+tSaleAmount          [     5] = '10000'
+tInputType           [     1] = '1'
+tARQC_Regen           [     0] = ''
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:23:09.844 
+> IcRd Tx[    51] = 02303035314B3130301C32303235303931393134323330391C31313836393239311C31303030301C311C1C1C1C1C0332343938
+> Set Reader TimeOut[901][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 901 ] 
+> Set Reader TimeOut[901][24000]
+> IcRd Rx[24000] = [
+CULib Hook - Press Down vkCode : 44 ! 
+
+> ! CMsgInfo::OnBtnMsgInfo() : m_bEventCancel = TRUE 
+
+! Reader ComPortReceive - m_bEventCancel : Get TRUE 
+0606First=0606
+Rf=0000
+]
+
+! Timer Stop = [ 901 ] 
+> COM CANCEL STEP ! 
+
+# IcRd::Init Packet : 20
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 20
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K980'
+tDateTime            [    14] = '20250919142312'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 14:23:12.820 
+> IcRd Tx[    45] = 02303034354B3938301C32303235303931393134323331321C31313836393239311C1C1C1C1C1C1C0342443537
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+> Set Reader TimeOut[920][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 920 ] 
+> Set Reader TimeOut[920][10000]
+> IcRd Rx[10000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741First=060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741
+Rf=0000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 920 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 14:23:13.095 
+> PacketReader - 0027K9900000577A ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0027'
+rTeleNo               [     4] = 'K990'
+rResCode              [     4] = '0000'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+m_strNewDialogOff = N ! 
+Delet MSGINFO ! 
+
+! Hook Destroy ! 
+Un Hook ! 
+! CASH VPAD CLOSE ! 
+
+@ PROC STEP : 2...PROCSTEP_ERROR_READER
+! POS ERROR CODE : K990
+> VP => POS Time Check : 2025-09-19 14:23:13.378 
+> VP => POS[     4] = 'K990'
+
+@ SndPacketErrorResult return : 1
+! COM7 Close
+! COM0 Close - AlReady - Second Reader !
+
+# IcRd::Init Packet :  0
+#######################################################################
+
+# Main PaymentProcess End 
+
+> ! CDaouVPDlg::OnSocketClose 1539 m_bEventCancel = TRUE 
+Tv Close Time Check : 2025-09-19 14:23:14.484 
+> Server Socket - Disconneted !! 
+Tv Accept Time Check : 2025-09-19 15:11:22.916 
+> Server Socket - Accepted : S(192.168.1.23) <- C(127.0.0.1) 
+Tv Recv Time Check : 2025-09-19 15:11:22.928 
+H-RxData[   151] = 3031303031303131383639323931303030303020202020202020202020202020303031303030302020202020202031303120202020202020202031303030202020202020202020202020202020202020202032303235303931392020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020201C
+S-RxData[   151] = '0100101186929100000             0010000       101         1000                    20250919                                                            '
+# POS::Rcv Packet Status Check = [0]
+# Flush Packet  Buf.
+# POS::Rcv Packet PutBuf 
+! Pack Rcv Complete...R[151]C[144]
+-----------------------------------------------------
+   IniPacket read InCompData from Ini File
+-----------------------------------------------------
+m_strIncompData         [     0] = ''
+m_strIncompData_Multireg[     0] = ''
+m_strIncompData_SubVAN[     0] = ''
+-----------------------------------------------------
+
+# POS::Init Packet :  1
+-----------------------------------------------------
+   POS::Rcv Packet Debug Print
+-----------------------------------------------------
+tTeleNo              [     4] = '0100'
+tJobCode             [     2] = '10'
+tTID                 [     8] = '11869291'
+tSlipNo              [     4] = '0000'
+tCatInfo             [    14] = '0             '
+-----------------------------------------------------
+tInstallment         [     2] = '00'
+tSaleAmount          [    12] = '10000       '
+tTipAmount           [    12] = '101         '
+tTaxAmount           [    12] = '1000        '
+tNonTaxAmount        [    12] = '            '
+tOrgDate             [     8] = '20250919'
+tOrgAppNo            [    12] = '            '
+tShopData            [    42] = '                                          '
+tRecyleAmount			[     6] = '      '
+tOilInfo				[     0] = ''
+-----------------------------------------------------
+--------------------Variable Filed-------------------
+-----------------------------------------------------
+! Receive TID = 11869291
+! DaouVP TID = 11869291
+! Check TID - TRUE ! 
+
+# Main TransationProc Start 
+! COM7 Open OK
+
+@ PROC STEP : 10...PROCSTEP_INPUT_CARD_READER
+#######################################################################
+        VP => READER : 카드 입력 요청  K100/K180 
+#######################################################################
+
+# IcRd::Init Packet : 20
+
+# IcRd::Init Packet :  1
+Create MSGINFO ! 
+Start Hook ! 
+Hook Create ! 
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID :  1
+tLength              [     4] = '0051'
+tTeleNo              [     4] = 'K100'
+tDateTime            [    14] = '20250919151124'
+tTID                 [     8] = '11869291'
+tSaleAmount          [     5] = '10000'
+tInputType           [     1] = '1'
+tARQC_Regen           [     0] = ''
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 15:11:24.333 
+> IcRd Tx[    51] = 02303035314B3130301C32303235303931393135313132341C31313836393239311C31303030301C311C1C1C1C1C0342463142
+> Set Reader TimeOut[901][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 901 ] 
+> Set Reader TimeOut[901][24000]
+> IcRd Rx[24000] = [
+
+> ! CMsgInfo::OnBtnMsgInfo() : m_bEventCancel = TRUE 
+
+! Reader ComPortReceive - m_bEventCancel : Get TRUE 
+0606First=0606
+Rf=0000
+]
+
+! Timer Stop = [ 901 ] 
+> COM CANCEL STEP ! 
+
+# IcRd::Init Packet : 20
+-----------------------------------------------------
+   IcRd::Snd Packet Debug Print 
+-----------------------------------------------------
+hPacID : 20
+tLength              [     4] = '0045'
+tTeleNo              [     4] = 'K980'
+tDateTime            [    14] = '20250919151125'
+tTID                 [     8] = '11869291'
+-----------------------------------------------------
+
+> PacketReader Send Time Check : 2025-09-19 15:11:25.306 
+> IcRd Tx[    45] = 02303034354B3938301C32303235303931393135313132351C31313836393239311C1C1C1C1C1C1C0335373037
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+> Set Reader TimeOut[920][5000]
+crtl(06)byte wait[5000] = [060606First=060606
+Rf=000000
+]
+
+! Timer Stop = [ 920 ] 
+> Set Reader TimeOut[920][10000]
+> IcRd Rx[10000] = [
+
+First_Reader_Read_State = TRUE
+
+Reader Send / Recv PacID Check !
+Reader Result ETC - PASS !!
+Reader Send / Recv PacID Check = SUCC !!
+060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741First=060602303032374B3939301C303030301C1C1C1C1C1C1C1C0335373741
+Rf=0000000000000000000000000000000000000000000000000000000000
+]
+
+! Timer Stop = [ 920 ] 
+
+> PacketReader - COMSTEP_DIV_PACKET ! 
+> PacketReader Recv Time Check : 2025-09-19 15:11:25.557 
+> PacketReader - 0027K9900000577A ! 
+-----------------------------------------------------
+   IcRd::Rcv Packet Debug Print
+-----------------------------------------------------
+rLength               [     4] = '0027'
+rTeleNo               [     4] = 'K990'
+rResCode              [     4] = '0000'
+-----------------------------------------------------
+
+ Clear Queue !! 
+
+! ComPortReceive - First_Reader_Read_State / Second_Reader_Read_State / RF_Reader_Read_State = Set FALSE 
+m_strNewDialogOff = N ! 
+Delet MSGINFO ! 
+
+! Hook Destroy ! 
+Un Hook ! 
+! CASH VPAD CLOSE ! 
+
+@ PROC STEP : 2...PROCSTEP_ERROR_READER
+! POS ERROR CODE : K990
+> VP => POS Time Check : 2025-09-19 15:11:25.812 
+> VP => POS[     4] = 'K990'
+
+@ SndPacketErrorResult return : 1
+! COM7 Close
+! COM0 Close - AlReady - Second Reader !
+
+# IcRd::Init Packet :  0
+#######################################################################
+
+# Main PaymentProcess End 
+
+> ! CDaouVPDlg::OnSocketClose 1539 m_bEventCancel = TRUE 
+Tv Close Time Check : 2025-09-19 15:11:31.012 
+> Server Socket - Disconneted !! 

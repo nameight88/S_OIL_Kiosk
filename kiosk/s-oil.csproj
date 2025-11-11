@@ -1,0 +1,87 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>s_oil</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PlatformTarget>x86</PlatformTarget>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="controls\**" />
+    <EmbeddedResource Remove="controls\**" />
+    <None Remove="controls\**" />
+  </ItemGroup>
+
+  <!-- ���ҽ� ���� ���� �ذ��� ���� ���� -->
+
+  <ItemGroup>
+        <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+    <PackageReference Include="System.IO.Ports" Version="9.0.8" />
+    <PackageReference Include="System.Speech" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="resource\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Utils\IniParser.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AxInterop.SmtSndRcvVCATLib">
+      <HintPath>..\..\Paymentmodule\build\AxInterop.SmtSndRcvVCATLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SmtSndRcvVCATLib">
+      <HintPath>..\..\Paymentmodule\build\Interop.SmtSndRcvVCATLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WinHttp">
+      <HintPath>..\..\Paymentmodule\build\Interop.WinHttp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Paymentmodule\build\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PayControl">
+      <HintPath>..\..\Paymentmodule\build\PayControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="SMT_Kiosk.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="PLC1.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

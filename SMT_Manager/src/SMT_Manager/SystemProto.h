@@ -1,0 +1,192 @@
+#ifndef _SYSTEM_PROTO_H_
+#define _SYSTEM_PROTO_H_
+
+// 원격 DB 쿼리시
+//#define _REMOTE_DB_USED_
+
+#define MAX_COMPANY_COUNT				12
+#define MAX_DELIVERY_CONTENT			18	
+
+#define MAX_LOCKER_BOX_CNT				200      //임의로 박스의 Max개수를 정함  
+#define MAX_LOCKER_ROW_CNT				10        //임의로 박스의 Max row개수를 정함
+
+#define IDC_LOCKER_CTRL_BASE			4000
+#define IDC_BUTTON_LOCKER_BIGNO			4500
+
+#define BOX_USE_SINGLE					1
+#define BOX_USE_COUPLE					2
+
+//extern const char g_Delivery_Company[MAX_COMPANY_COUNT][32];
+//extern const char g_Delivery_Content[MAX_DELIVERY_CONTENT][8];
+
+#define CONTENTS_NONE					0
+#define CONTENTS_LOCKER					1
+#define CONTENTS_FIND					2          //일반 사용자 택배찾을때
+#define CONTENTS_FINDUSER				3          //일반 사용자 물품 찾을때
+
+#define CONTENTS_DELEVERY_COLLECT		4          //택배기사 수거때
+
+//*************************** 아래 3가지 유형이 비슷
+#define CONTENTS_DELEVERY_SEND			5          //일반 사용자 택배 보낼때
+
+#define CONTENTS_SENDUSER				9          //물품 전달
+
+#define CONTENTS_POST_DELEVERY			10         //이하(10~21)는 택배기사 택배배달 (회사)
+#define CONTENTS_HANJIN_DELEVERY		11
+#define CONTENTS_DAEHAN_DELEVERY		12
+#define CONTENTS_HYUNDAE_DELEVERY		13
+#define CONTENTS_CJ_DELEVERY			14
+#define CONTENTS_ROJEN_DELEVERY			15
+#define CONTENTS_YELLOW_DELEVERY		16
+#define CONTENTS_FAMILY_DELEVERY		17
+#define CONTENTS_KGB_DELEVERY			18
+#define CONTENTS_DONGBU_DELEVERY		19
+#define CONTENTS_HANARO_DELEVERY		20
+#define CONTENTS_ETC_DELEVERY			21
+//***************************************************
+#define CONTENTS_TOTAL_DELEVERY         25         //택배배달(10~21)까지의 확인자
+
+//*****************************
+#define CONTENTS_DELEVERY_SEND_FLAG		30         //택배발송일때 (문서전달과 택배배달)과 구분하기 위해플래그를 줌
+//*****************************
+
+
+#define LOCKER_HISTORY_FIND				"00"
+#define LOCKER_HISTORY_REQ_DELEVERY		"01"
+#define LOCKER_HISTORY_REQ_CLINIC		"02"
+#define LOCKER_HISTORY_REQ_SENDBACK		"03"
+#define LOCKER_HISTORY_POST				"04"
+#define LOCKER_HISTORY_POST_DELEVERY	"05"
+#define LOCKER_HISTORY_HANJIN_DELIVERY	"06"
+#define LOCKER_HISTORY_ETC_DELIVERY		"07"
+#define LOCKER_HISTORY_CLINIC			"08"
+#define LOCKER_HISTORY_GET_HANJIN		"09"
+#define LOCKER_HISTORY_GET_CLINIC		"10"
+#define LOCKER_HISTORY_FORCE_RESET		"11"
+#define LOCKER_HISTORY_FORCE_ACCIDENT	"12"
+#define LOCKER_HISTORY_FORCE_NONE		"13"
+#define LOCKER_HISTORY_ERROR_RESET		"14"
+#define LOCKER_HISTORY_SENDBACK_MODIFY	"15"
+#define LOCKER_HISTORY_SENDBACK_RESET	"16"
+
+typedef enum _tagMESSAGETYPE
+{
+	MESSAGE_NONE,
+	MESSAGE_OK,
+	MESSAGE_OKCANCEL,
+	MESSAGE_YESNO
+} MESSAGETYPE;
+
+typedef enum _tagTELETYPE
+{
+	TELE_SKT,
+	TELE_KTF,
+	TELE_LGT
+} TELETYPE;
+
+typedef enum _tagMK_DATETIME
+{ 
+	MK_YEAR,
+	MK_MONTH,
+	MK_DAY,
+	MK_HOUR,
+	MK_MIN,
+	MK_SEC 
+} MK_DATETIME;
+
+typedef enum _tagSELTERMTYPE
+{
+	TYPE_NONE = -1,
+	TYPE_TIME,
+	TYPE_1MON,
+	TYPE_3MON=3,
+	TYPE_6MON=6
+} SELTERMTYPE;
+
+typedef enum _tagKEYPADTYPE
+{
+	KEY_PHONE,
+	KEY_JUMIN,
+	KEY_SECUNO,
+	KEY_MONEY,
+	KEY_HAKBEON,
+	KEY_AGREENO,
+} KEYPADTYPE;
+
+typedef enum _tagACCSELTYPE
+{
+	ACC_NONE=0,
+	ACC_CASH,
+	ACC_PHONE,
+	ACC_CARD,
+	ACC_TMONEY,
+	ACC_KCASH
+} ACCSELTYPE;
+
+typedef enum _tagPAYTYPE
+{
+	PAY_PRE=1,
+	PAY_AFTER
+} PAYSELTYPE;
+
+typedef enum _tagSENDAREATYPE
+{
+	SEND_INLAND=1,
+	SEND_JEJU,
+	SEND_OTHER	
+} AREASELTYPE;
+
+typedef enum _tagHISTORY_TYPE
+{
+	LOCKER_NEW,
+	LOCKER_OPEN,
+	LOCKER_EXTEND,
+	LOCKER_EXIT,
+	LOCKER_OVEREXIT,
+	LOCKER_DELIVERY,
+	LOCKER_DELIVERY_FAILED,
+	LOCKER_FIND,
+	LOCKER_FIND_BACK,
+	LOCKER_SENDUSER,
+	LOCKER_DELIVERYSEND,
+	LOCKER_DELIVERYCOLLECT,
+	LOCKER_SENDUSERFIND,
+	LOCKER_MANAGER_RETURN,
+    LOCKER_MANAGER_DBUPDATE,
+	LOCKER_MANAGER_OPEN,
+	LOCKER_DELIVERY_MAN_MODIFY=19, // 택배기사 전화번호 수정
+	LOCKER_SYSTEM_AUTO_RETURN // 시스템에 의한 자동 반납
+} HISTORY_TYPE;
+
+typedef enum _tagUSERSELTYPE
+{
+	USER_SEL_EXIT,
+	USER_SEL_OPEN,
+	USER_SEL_RETURN,
+	USER_SEL_EXTEND
+} USERSELTYPE;
+
+enum COMPARE_TYPE_ENUM
+{
+	COMPARE_TYPE_NONE,
+	COMPARE_TYPE_TEMP,		//임시 출입증 카드...DB 주민번호하고 비교한다. 
+	COMPARE_TYPE_CARD,		//일반 학생용 카드...DB 학번하고 카드 차수하고 비교한다.
+	COMPARE_TYPE_MOBILE		//모바일 학생증 카드.DB 학번하고 모바일 차수하고 비교한다.	
+};
+
+enum LOGIN_TIMER_ENUM
+{
+	LOGIN_TIMER_READY=10,	//카드 읽기 대기 시간
+	LOGIN_TIMER_OK,			//정산 완료 메세지 표시 시간
+	LOGIN_TIMER_CANCEL		//정산 실패 메세지 표시 시간 
+};
+
+typedef enum _tagCERT_TYPE{	CERT_TYPE_CARD,	CERT_TYPE_PHONE } CERT_TYPE;
+
+#define MESSAGE_CTRL_CANCELID	6000
+#define MESSAGE_CTRL_OKID		6001
+#define MESSAGE_CTRL_OPENID		6002
+#define MESSAGE_CTRL_RETURNID	6003
+#define MESSAGE_CTRL_EXTENDID	6004
+
+#endif
